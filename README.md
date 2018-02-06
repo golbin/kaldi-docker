@@ -1,5 +1,7 @@
 # Kaldi on Ubuntu 16.04
 
+Use `golbin/kaldi:latest`
+
 See [Dockerfile](Dockerfile)
 
 Installed in `/home/kaldi`
